@@ -2,9 +2,6 @@
 <a href="https://www.facebook.com/valev.simeon/">
   <img align="left" alt="Simeon's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-<a href="https://www.instagram.com/simeon_valev/">
-  <img align="left" alt="Simeon's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
 <a href="https://twitter.com/simeon_valev">
   <img align="left" alt="Simeon Valev | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
