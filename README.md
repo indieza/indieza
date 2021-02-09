@@ -32,4 +32,4 @@ Hi, I'm [Simeon Valev](https://github.com/indieza)
 
 📈 My GitHub Stats
 
-<p align="center"> ![Indieza GitHub stats](https://github-readme-stats.vercel.app/api?username=indieza&show_icons=true&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=indieza&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
