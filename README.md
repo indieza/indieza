@@ -15,6 +15,7 @@
 Hi, I'm Simeon
 
 **Languages and Tools:**
+<br />
 <img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/C-Sharp%20Icon.png?raw=true" width="20" height="20" />
 <img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/MsSQL%20Icon.png?raw=true" width="20" height="20" />
 <img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Blazor%20Icon.png?raw=true" width="20" height="20" />
