@@ -15,7 +15,12 @@
 Hi, I'm Simeon
 
 **Languages and Tools:**
-<img align="right" alt="GIF" src="https://github.com/indieza/indieza/blob/main/C-Sharp%20Icon.png?raw=true" width="20" height="20" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/C-Sharp%20Icon.png?raw=true" width="20" height="20" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/MsSQL%20Icon.png?raw=true" width="20" height="20" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Blazor%20Icon.png?raw=true" width="20" height="20" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/JavaScript%20Icon.png?raw=true" width="20" height="20" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/ReactJS%20Logo.png?raw=true" width="20" height="20" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/VueJS%20Logo.png?raw=true" width="20" height="20" />
 
 📈 My GitHub Stats
 
