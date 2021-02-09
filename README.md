@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=indieza)
 
 <br />
-Hi, I'm [Simeon Valev](https://github.com/indieza)
+Hi, I'm [Simeon Valev](https://github.com/indieza/)
 
 **Languages and Tools:**  
 
