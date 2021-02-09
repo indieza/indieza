@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=indieza)
 
 <br />
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/)
+Hi, I'm Simeon
 
 **Languages and Tools:**  
 
