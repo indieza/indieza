@@ -16,13 +16,13 @@ Hi, I'm Simeon
 
 **Languages and Tools:**
 <br />
-<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/C-Sharp%20Icon.png?raw=true" width="20" height="20" />
-<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/MsSQL%20Icon.png?raw=true" width="20" height="20" />
-<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/Blazor%20Icon.png?raw=true" width="20" height="20" />
-<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/JavaScript%20Icon.png?raw=true" width="20" height="20" />
-<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/ReactJS%20Logo.png?raw=true" width="20" height="20" />
-<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/VueJS%20Logo.png?raw=true" width="20" height="20" />
-
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/C-Sharp%20Icon.png?raw=true" width="50" height="50" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/MsSQL%20Icon.png?raw=true" width="50" height="50" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/Blazor%20Icon.png?raw=true" width="50" height="50" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/JavaScript%20Icon.png?raw=true" width="50" height="50" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/ReactJS%20Logo.png?raw=true" width="50" height="50" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/VueJS%20Logo.png?raw=true" width="50" height="50" />
+<br />
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=indieza&show_icons=true&theme=gotham" alt="indieza" />
