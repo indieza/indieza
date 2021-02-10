@@ -22,6 +22,8 @@ Hi, I'm Simeon
 <img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/JavaScript%20Icon.png?raw=true" width="50" height="50" />
 <img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/ReactJS%20Logo.png?raw=true" width="50" height="50" />
 <img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/VueJS%20Logo.png?raw=true" width="50" height="50" />
+<img align="left" alt="GIF" src="https://github.com/indieza/indieza/blob/main/Programming%20Languages/Mldotnet%20Logo.png?raw=true" width="50" height="50" />
+
 <br />
 📈 My GitHub Stats
 
