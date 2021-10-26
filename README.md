@@ -30,5 +30,5 @@ Hi, I'm Simeon
 <span align="left"> <img src="https://github-readme-stats.vercel.app/api?username=indieza&show_icons=true&theme=gotham" alt="indieza" /></span>
 <span align="right"> <img src="https://github.com/indieza/indieza/blob/main/Base%20Images/.NET%20Logo.jpg?raw=true" alt="indieza" width="300" /></span>
 <span align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indieza&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="indieza" /></span>
-<span align="right"> <img src="https://github.com/indieza/indieza/blob/main/Base%20Images/code.gif?raw=true" alt="indieza" width="515" /></span>
+<span align="right"> <img src="https://github.com/indieza/indieza/blob/main/Base%20Images/code.gif?raw=true" alt="indieza" width="515" style="margin-bottom: 4px;"/></span>
 
