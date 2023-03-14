@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/simeon_valev" target="blank"><img src="https://img.shields.io/twitter/follow/simeon_valev?logo=twitter&style=for-the-badge" alt="simeon_valev" /></a> </p>
 
+[![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/valev.simeon/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/simeon_valev/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simeon-valev-aa1aa4136/)
+
 - 🔭 I’m currently working for **KPMG ITS**
 
 - 🌱 I’m currently learning **Xamarin & React-Native**
