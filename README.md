@@ -1,15 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Simeon</h1>
 <h3 align="center">A passionate Full-Stack .NET developer from BG</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indieza&label=Profile%20views&color=0e75b6&style=flat" alt="indieza" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=indieza&label=Profile%20views&color=0e75b6&style=flat" alt="indieza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indieza" alt="indieza" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indieza" alt="indieza" /></a> </p>
+<p align="center">
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/valev.simeon/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/simeon_valev/) 
 [![Instagram](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7419586/simeon-valev) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simeon-valev-aa1aa4136/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/simeon_valev)
+</p>
 
 - 🔭 I’m currently working for **KPMG ITS**
 
