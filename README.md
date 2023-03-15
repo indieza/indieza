@@ -11,9 +11,6 @@
   <a href="https://www.instagram.com/simeon_valev/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" width="auto" height="auto"/>
   </a>
-  <a href="https://www.instagram.com/simeon_valev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" width="auto" height="auto"/>
-  </a>
   <a href="https://stackoverflow.com/users/7419586/simeon-valev" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" width="auto" height="auto"/>
   </a>
