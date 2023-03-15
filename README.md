@@ -31,6 +31,7 @@
   &nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indieza&show_icons=true&locale=en&layout=compact" alt="indieza" />
 </p>
+&nbsp;
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=indieza&show_icons=true&locale=en" alt="indieza" />  
 </p>
