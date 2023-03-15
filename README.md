@@ -32,6 +32,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indieza&" alt="indieza" />
 </p>
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indieza&show_icons=true&locale=en&layout=compact" alt="indieza" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indieza&show_icons=true&locale=en&layout=compact" alt="indieza" />
 </p>
 
