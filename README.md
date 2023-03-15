@@ -4,7 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=indieza&label=Profile%20views&color=0e75b6&style=flat" alt="indieza" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indieza" alt="indieza" /></a> </p>
-
+<p align="center">
+  <a href="https://www.facebook.com/valev.simeon/">
+    <img src="https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white" alt="android" width="auto" height="auto"/>
+  </a>
+</p>
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/valev.simeon/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/simeon_valev/) 
 [![Instagram](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7419586/simeon-valev) 
